@@ -1,2 +1,2 @@
 # algorithms
-Processing algorithms
+Implementing different algorithms
